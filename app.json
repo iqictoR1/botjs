@@ -1,0 +1,17 @@
+{
+  "name": "botjs",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku si node.js"
+    }
+  ]
+}
